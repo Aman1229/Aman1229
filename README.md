@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aman1229
-- 👀 I’m interested in Web Development and Java Coding 
+- 👀 I’m interested in Web Development, Python and JavaScript Coding. 
 - 📫 In case you want to contact email me on @amanguptadbg1229@gmail.com
 
 <!---
